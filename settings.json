@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "TXVerse.aternos.me",
+    "port": 56184,
+    "version": "26.2 (43)",
     "try-creative": false
   },
   "position": {
